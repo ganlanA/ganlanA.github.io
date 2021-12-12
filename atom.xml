@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2021-12-12T07:30:45.758Z</updated>
+  <updated>2021-12-12T12:57:41.483Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo deploy上传github全是空白文件问题解决</title>
+    <link href="/2021/12/12/1/"/>
+    <id>/2021/12/12/1/</id>
+    <published>2021-12-12T12:49:19.000Z</published>
+    <updated>2021-12-12T12:57:41.483Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近基于hexo搭建个人博客，本地&lt;code&gt;deploy server&lt;/code&gt;在&lt;code&gt;localhost://4000&lt;/code&gt;调试成功，&lt;/p&gt;
+&lt;p&gt;准备&lt;code&gt;deploy
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>建站成功</title>
     <link href="/2021/12/12/hellohexo/"/>
     <id>/2021/12/12/hellohexo/</id>
     <published>2021-12-12T07:20:19.000Z</published>
-    <updated>2021-12-12T07:30:45.758Z</updated>
+    <updated>2021-12-12T12:56:19.750Z</updated>
     
     <summary type="html">
     
@@ -35,7 +60,7 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
