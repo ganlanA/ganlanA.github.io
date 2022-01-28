@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2021-12-12T12:57:41.483Z</updated>
+  <updated>2022-01-28T09:24:08.985Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3</title>
+    <link href="/2022/01/28/3/"/>
+    <id>/2022/01/28/3/</id>
+    <published>2022-01-28T09:23:39.000Z</published>
+    <updated>2022-01-28T09:24:08.985Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-大家好-以下是互联网大厂工资：&quot;&gt;&lt;a href=&quot;#1-大家好-以下是互联网大厂工资：&quot; class=&quot;headerlink&quot; title=&quot;1.大家好, 以下是互联网大厂工资：&quot;&gt;&lt;/a&gt;1.大家好, 以下是互联网大厂工资：&lt;/h1&gt;&lt;p&gt;spp 
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>hexo deploy上传github全是空白文件问题解决</title>
